@@ -81,7 +81,9 @@ taskmanger/
 
 ## 📊 Screenshots
 
-*Coming soon…*
+![Screenshot 2025-05-30 at 8 28 35 AM](https://github.com/user-attachments/assets/ae809b1c-6d7a-48d2-a0c8-12ffac3ab863)
+![Screenshot 2025-05-30 at 8 28 55 AM](https://github.com/user-attachments/assets/354b6f5c-b661-44f6-a8a8-c56cd3f11e52)
+
 
 ---
 
