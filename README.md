@@ -94,9 +94,9 @@ Contributions are welcome! Fork the repo and submit a pull request. Let’s buil
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author and Owner
 
-**Sumit / [@bhupeshcoding](https://github.com/bhupeshcoding)**
+** / [@bhupeshcoding](https://github.com/bhupeshcoding)**
 Feel free to connect or collaborate!
 
 ```
