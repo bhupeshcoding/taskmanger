@@ -9,7 +9,7 @@
 
 ## 🔥 Live Demo
 
-**[🌐 View Live on Vercel →](https://your-taskmanager.vercel.app)**  
+**[🌐 View Live on netlify →](https://prismatic-mochi-0087a3.netlify.app/)**  
 _(Optional: Add link when deployed)_
 
 ---
